@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T15:57:28.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="AGvzjrCUqvggi14rnazX" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T16:55:51.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="XVlT16ItJIibZZeyNcWW" version="13.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2211" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -41,8 +41,75 @@
         <mxCell id="3TFnIGTafX-QFJgqI6-p-7" value="Nog een bom valt, game over." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3TFnIGTafX-QFJgqI6-p-9" value="Je ontkomt de bommen, waar ga je naartoe?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-12" value="Een andere stad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-14" target="3TFnIGTafX-QFJgqI6-p-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-14" value="Je wacht en gaat terug naar je stad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-16" value="Er valt nog een bom, het is niet veilig hier." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-19" value="Je overnacht bij een vriend na 6 uur rijden naar zijn woonplaats.." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-21" value="Er valt daar ook een bom. Het is nergens meer veilig." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-27" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-16" target="3TFnIGTafX-QFJgqI6-p-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="560" as="sourcePoint" />
+            <mxPoint x="50" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="560" />
+              <mxPoint y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79" y="560" as="sourcePoint" />
+            <mxPoint y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="79" y="580" />
+              <mxPoint x="40" y="580" />
+              <mxPoint y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="0.6666666666667425" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-31" value="Je gaat vluchten." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
