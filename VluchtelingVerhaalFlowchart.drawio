@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T07:16:24.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9eu4q29IP60u-bz5XiI_" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T07:50:12.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FId0cNA4r6ReKaBGdJES" version="13.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2211" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -481,6 +481,63 @@
         </mxCell>
         <mxCell id="W929-gtIN1jn1R_6tart-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-100" target="W929-gtIN1jn1R_6tart-100">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-105" target="W929-gtIN1jn1R_6tart-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="1260" />
+              <mxPoint y="820" />
+              <mxPoint x="-80" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-105" value="Betaal je of besluit je toch maar zelf te gaan?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-107" value="Toch zelf gaan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-108" value="11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="1280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.66666666666652" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-110" value="Betalen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.66666666666652" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-113" value="Je betaalt 10000 euro en krijgt een nep-id en wordt vervoerd via een vrachrwagen." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-115" target="W929-gtIN1jn1R_6tart-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-115" target="W929-gtIN1jn1R_6tart-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-115" value="Ga je via naar Turkije of Saoedi-Arabië?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-118" value="Saoedi-Arabië" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-119" value="Turkije" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
