@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T21:45:35.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0RwVml2yrF_4VThslUQu" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T06:00:07.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="u9daKgVc9-1FOlmgyEFF" version="13.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2206" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -123,6 +123,73 @@
         </mxCell>
         <mxCell id="W929-gtIN1jn1R_6tart-0" value="Hoe ga je vluchten?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-3" target="W929-gtIN1jn1R_6tart-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-3" value="MEt de auto met als risico om gepakt te worden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-4" value="Een mensensmokkelaar opzoeken met een kleiner risico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-7" target="W929-gtIN1jn1R_6tart-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-7" target="W929-gtIN1jn1R_6tart-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="900" />
+              <mxPoint x="-220" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-7" value="Welke richting ga je op?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-7" target="W929-gtIN1jn1R_6tart-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-7" target="W929-gtIN1jn1R_6tart-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-13" value="Nederland" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-14" value="Turkije" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-19" target="W929-gtIN1jn1R_6tart-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-19" target="W929-gtIN1jn1R_6tart-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="900" />
+              <mxPoint x="220" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-19" value="Welke richting ga je op?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-19" target="W929-gtIN1jn1R_6tart-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W929-gtIN1jn1R_6tart-19" target="W929-gtIN1jn1R_6tart-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-22" value="Nederland" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-23" value="Turkije" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
