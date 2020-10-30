@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T08:43:39.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sLRIOxl4uzPO06-pP8rB" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T11:55:55.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="f3m2cezEWOn9vqfe-AK0" version="13.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2208" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -68,7 +68,10 @@
         <mxCell id="3TFnIGTafX-QFJgqI6-p-14" value="Je wacht en gaat terug naar je stad" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3TFnIGTafX-QFJgqI6-p-16" value="Er valt nog een bom, het is niet veilig hier." style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="W929-gtIN1jn1R_6tart-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-16" target="3TFnIGTafX-QFJgqI6-p-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TFnIGTafX-QFJgqI6-p-16" value="JE huis staat er niet meer." style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3TFnIGTafX-QFJgqI6-p-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-19" edge="1">
@@ -79,29 +82,17 @@
         <mxCell id="3TFnIGTafX-QFJgqI6-p-19" value="Je overnacht bij een vriend na 6 uur rijden naar zijn woonplaats.." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-60" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-21" target="3TFnIGTafX-QFJgqI6-p-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="550" />
+              <mxPoint y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3TFnIGTafX-QFJgqI6-p-21" value="Er valt daar ook een bom. Het is nergens meer veilig." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-60" y="480" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3TFnIGTafX-QFJgqI6-p-27" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-16" target="3TFnIGTafX-QFJgqI6-p-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="560" as="sourcePoint" />
-            <mxPoint x="50" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="560" />
-              <mxPoint y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3TFnIGTafX-QFJgqI6-p-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="79" y="560" as="sourcePoint" />
-            <mxPoint y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="79" y="580" />
-              <mxPoint x="40" y="580" />
-              <mxPoint y="580" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="3TFnIGTafX-QFJgqI6-p-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3TFnIGTafX-QFJgqI6-p-31" edge="1">
           <mxGeometry relative="1" as="geometry">
