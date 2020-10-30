@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T08:33:41.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KRs0KUT9BF03twbCGZ5r" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T08:43:39.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sLRIOxl4uzPO06-pP8rB" version="13.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2208" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -686,6 +686,9 @@
         </mxCell>
         <mxCell id="W929-gtIN1jn1R_6tart-161" value="Je wordt toegelaten omdat je familie hebt en een &quot;geldig ID&quot;. JE BENT ONTSNAPT!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="2280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W929-gtIN1jn1R_6tart-162" value="15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="2170" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
